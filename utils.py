@@ -1,9 +1,6 @@
 import streamlit as st 
 import base64 
 
-
-
-
 def set_background(image_file):
     """
     This function sets the background of a Streamlit app to an image specified by the given image file.
