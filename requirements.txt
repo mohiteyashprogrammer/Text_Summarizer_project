@@ -9,4 +9,8 @@ requests
 scikit-learn
 ipykernel
 transformers
+tensorflow
+pytorch
+
+#pip install torch torchvision torchaudio
 -e .
